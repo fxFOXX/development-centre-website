@@ -1,0 +1,38 @@
+<section data-pcid="4007" id="kpg_770459" class="kedit keditDark" data-keditor="1" data-bgcolor="#101317" data-padding="0-0" style="background:#101317;padding-top:0px;padding-bottom:0px">
+
+    <div class="container">
+
+    <div class="row">
+        <div class="col-lg">
+            <div class="col-container">
+            
+            <ol class="breadcrumb"><li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><div class="keditable d-inline-block">Contact</div></li></ol>
+            <h1 class="keditable">Contact Us</h1>
+
+            </div>
+        </div>
+    </div>
+
+        
+        
+    </div>
+
+</section><section data-pcid="4005.1" id="kedit_6vbc7wkbo" class="kedit" data-bgcolor="rgb(243, 243, 243)" data-padding="100-90" style="background:rgb(243, 243, 243);padding-top:100px;padding-bottom:90px">
+
+
+<div class="row justify-content-center align-contents-center mx-5 mx-md-0 skiptranslate">
+<div class="col-12 col-md-auto d-flex align-items-center">
+    <span class="mr-1 ml-0 koIconHolder koIconStyle3 koIconSize100"><i class="koIcon fas fa-phone"></i></span> <div class="keditable mr-5 ml-3" style="font-size: 20px;">+2774 368 2708</div>
+</div>
+<div class="col-12 col-md-auto d-flex align-items-center my-4 my-md-0">
+    <span class="mr-1 ml-0 koIconHolder koIconStyle3 koIconSize100"><i class="koIcon fas fa-envelope"></i></span> <div class="keditable mr-5 ml-3" style="font-size: 20px;">lathithacentre@gmail.com</div>
+</div>
+<div class="col-12 col-md-auto d-flex align-items-center">
+    <span class="mr-1 ml-0 koIconHolder koIconStyle3 koIconSize100"><i class="koIcon fas fa-map-marker-alt"></i></span> <div class="keditable ml-3" style="font-size: 20px;">Gonubie, South Africa, 5257</div>
+</div>
+</div>
+
+
+
+
+</section><section id="kedit_dnokwoxbi" class="kedit keditApp keditLayout_1" data-padding="0-0" style=";padding-top:0px;padding-bottom:0px"><div class="container">{%form_Contact-form-02-2024%}</div></section><section class="kedit keditApp" data-padding="0-0" id="kpg_837824" style=";padding-top:0px;padding-bottom:0px"><div class="no-container">{%map%}</div></section>

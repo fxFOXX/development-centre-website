@@ -1,0 +1,67 @@
+<section data-pcid="4007" class="kedit entered loaded keditDark parallax-window" data-background-pos="1-50% 0" data-bgcolor="#101317" data-parallax="1" data-padding="0-0" data-keditor="1" id="kpg_7960700" style="background:#101317;padding-top:0px;padding-bottom:0px">
+
+    <div class="container">
+
+    <div class="row">
+        <div class="col-lg">
+            <div class="col-container">
+            
+            <ol class="breadcrumb"><li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><div class="keditable d-inline-block">Gallery</div></li></ol>
+            <h1 class="keditable">Gallery</h1>
+
+            </div>
+        </div>
+    </div>
+
+        
+        
+    </div>
+
+</section><section data-pcid="4028.2" id="kpg_291123" class="kedit">
+
+    <div class="no-container">
+    <div class="keditable d-none"></div>
+
+        <div class="row g-0 my-5 py-5">
+
+            <div class="d-none col d-md-flex align-items-center" style="transform:translateY(-1.5em) scale(1.4) rotate(2deg)">
+
+
+                <div class="kimgRatio1"><img class="kimgfilter3 lazy" data-src="data/files/photos/1506756495389-fed116cec38d-50046016.jpg"></div>
+
+
+            </div>
+            <div class="col d-flex align-items-center" style="transform:translateY(1em) scale(1.4) rotate(-5deg)">
+
+
+                <div class="kimgRatio1"><img class="kimgfilter3 lazy" data-src="data/files/photos/1515442304705-de3793c6cce0-23313918.jpg"></div>
+
+
+            </div>
+            <div class="col d-flex align-items-center" style="transform:translateY(-2em) scale(1.3) rotate(3deg)">
+
+                <div class="kimgRatio1"><img class="kimgfilter3 lazy" data-src="data/files/photos/1494247622028-9a5bbfbf529a-dcb8c793.jpg"></div>
+
+
+            </div>
+            <div class="col d-flex align-items-center" style="transform:translateY(1.5em) scale(1.3) rotate(-5deg)">
+
+
+                <div class="kimgRatio1"><img class="kimgfilter3 lazy" data-src="data/files/photos/1506756495389-fed116cec38d-50046016.jpg"></div>
+
+
+            </div>
+            <div class="d-none col d-md-flex align-items-center" style="transform:translateY(-1em) scale(1.3) rotate(5deg)">
+
+
+                <div class="kimgRatio1"><img class="kimgfilter3 lazy" data-src="data/files/photos/1486365227551-f3f90034a57c-dcb8c793.jpg"></div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+</section>

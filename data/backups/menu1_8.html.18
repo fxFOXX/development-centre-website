@@ -1,0 +1,21 @@
+<section data-pcid="4007"   class="kedit keditDark kfilter1  parallax-window lazy entered loaded" data-background="data/files/blueorangeprofessionalcharitypresentation2.png" data-background-pos="1-50% 50%" data-parallax="1" data-src="data/files/blueorangeprofessionalcharitypresentation2.png" style="background: url() no-repeat 50% 50%;background-size:cover;;padding-top:300px;padding-bottom:0px;padding-top:50px;padding-bottom:50px" data-padding="50-50"  data-keditor="1" >
+
+    <div class="container">
+
+    <div class="row">
+        <div class="col-lg">
+            <div class="col-container">
+            
+            <ol class="breadcrumb"><li class="breadcrumb-item"><a href="index.php">Home</a></li><li class="breadcrumb-item"><div class="keditable d-inline-block">Your resources</div></li></ol>
+            <h1 class="keditable">Your resources</h1>
+
+            </div>
+        </div>
+    </div>
+
+        
+        
+    </div>
+
+</section>
+<section class="kedit" data-keditor="1"><div class="container"><h2 class="keditable mb-5">Welcome to our website</h2><div class="keditable">This is sample content, you can replace it with your own text and images.<br><br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</div></div></section>

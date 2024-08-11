@@ -1,0 +1,43 @@
+<?php
+
+define("_START_ID","1");
+define("_START_M","1");
+define("_START_SZ","");
+define("_ADM_EMAIL","windowsp2000@gmail.com");
+define("_LANG","en");
+define("_NOCHMODS","0");
+define("_SEO","1");
+define("_DHTML_CLICK","1");
+define("_DATE_FORMAT","**l**, **F** **j**, **Y**");
+define("_TIME_FORMAT","");
+define("_SiteName","Lathitha Development Centre");
+define("_SiteTitle","Lathitha Development Centre");
+define("_SiteKeywords","");
+define("_SiteDescription","");
+define("_SiteExtra","");
+define("_SiteLogo","data/files/newlogolathitha_1707663776.png");
+define("TitleSeparator","mdash");
+define("_SiteFavicon","data/files/blueandwhitemodernwebsitedevelopmentservicesfacebookpost_1707598662.png");
+define("_Site_info_CompanyName","Lathitha Development Centre");
+define("_Site_info_Phone","+2774 368 2708");
+define("_Site_info_Address","2 thomas street");
+define("_Site_info_City","king williams town");
+define("_Site_info_State","eastern cape");
+define("_Site_info_ZipCode","5601");
+define("_Site_info_Country","South Africa");
+define("mailMethod","mail");
+define("kopageID","743-00b204e980");
+define("_Site_info_Social","2");
+define("_SiteFacebook","lathithadevelopment");
+define("_SiteYouTube","@lathithadevelopmentcentre7848");
+define("_SiteWhatsapp","Whatsapp");
+define("googleFontsProvider","2");
+define("chmodFiles","0644");
+define("chmodFolders","0755");
+define("websiteSSL","1");
+define("websiteVersionCheck","1708189982");
+define("imagesAutoResize","1");
+define("customCookiePage","2_2");
+define("_SiteInstagram","explore/locations/680804498602110/lathitha-development-centre");
+define("_SiteMail","lathithacentre@gmail.com");
+

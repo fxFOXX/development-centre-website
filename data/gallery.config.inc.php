@@ -1,0 +1,1 @@
+<?php define("thumbSize","600"); define("thumbSquare",""); define("newSort","1"); define("imagesPerPage","9"); define("imagesPerRow","3");

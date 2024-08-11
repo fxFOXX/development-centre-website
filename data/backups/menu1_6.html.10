@@ -1,0 +1,37 @@
+<section data-pcid="4007" class="kedit parallax-window entered loaded keditDark" data-background-pos="1-50% 50%" data-parallax="1" data-padding="0-0" data-keditor="1" id="kpg_1339430" data-bgcolor="#101317" style="background:#101317;padding-top:0px;padding-bottom:0px"><div class="container">
+
+    <div class="row">
+        <div class="col-lg">
+            <div class="col-container">
+            
+            
+            <h1 style="font-family: &quot;Times New Roman&quot;, serif;" data-font="Times New Roman" class="keditable"></h1>
+
+            </div>
+        </div>
+    </div>
+
+        
+        
+    </div></section><section data-pcid="4063" id="kpg_113354" class="kedit">
+
+    <div class="container text-center">
+
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 col-lg-6 text-center">
+              <div class="koPreTitle keditable" data-aos="fade-in"></div>
+              <h1 class="keditable" data-aos="fade-up" data-font="Times New Roman" style="font-family: &quot;Times New Roman&quot;, serif; text-align: center;"><strong><font size="5"><strong style="font-size: 90%; color: rgb(0, 0, 0);">How can you help?</strong><br></font></strong></h1>
+              <div class="koSeparator koSeparatorBlock" data-bg="--color1" data-aos="fade-in" style="background: var(--color1); width: 100px;"></div>
+              <div class="h5 keditable koOpacity" data-aos="fade-up" data-font="Times New Roman" style="font-family: &quot;Times New Roman&quot;, serif;"><font style="font-size: 110%; color: rgb(0, 0, 0);">Do you want to make a difference? Look no further! Partner with Lathitha and reach out in Mzamomhle. Ways to be involved include: Picking up and delivering food Volunteering with the kids program Teaching a skills course Popping in and lending a helping hand We would love to have you!</font></div>
+
+              <div class="koButtons mt-5" data-aos="fade-in">
+                <a href="your-time" class="btn-block btn btn-color1 btn-sm rounded bs-3"><i class="fas fa-building-wheat mr-2 me-2"></i>Give your time                                        </a>
+                <a href="your-resources" class="btn-block btn btn-dark btn-sm rounded bs-3"><i class="fas fa-restroom mr-2 me-2"></i>Give your resources</a>
+              </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</section>
